@@ -1,13 +1,13 @@
 # Site settings
 title: Project Pages
 description: "An Integrated Scientific Blogging Template"
-url: "https://jeremytse.github.io"
+url: ""
 
 
 
 
 # Secondary Parameters
-baseurl: "https://jeremytse.github.io/"
+baseurl: "https://jeremytse.github.io"
 header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
 logo: img/logos/Project-Pages-New-Logo-Inverted.png
