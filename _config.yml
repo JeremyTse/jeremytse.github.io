@@ -7,15 +7,15 @@ url: "https://jeremytse.github.io"
 
 
 # Secondary Parameters
-baseurl: "/"
+baseurl: "https://jeremytse.github.io"
 header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
 logo: /jeremytse.github.io/img/logos/Project-Pages-New-Logo-Inverted.png
 
 # Tertiary Parameters
-github_username:  projectpages
-project_repository: project-pages
-disqus_shortname: project-pages
+github_username:  JeremyTse
+project_repository: jeremytse.github.io
+disqus_shortname: jeremytse.github.io
 g-analytics: UA-75881392-1
 altmetric: true
 
