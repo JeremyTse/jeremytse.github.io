@@ -10,7 +10,7 @@ url: "https://jeremytse.github.io"
 baseurl: "https://jeremytse.github.io"
 header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
-logo: /jeremytse.github.io/img/logos/Project-Pages-New-Logo-Inverted.png
+logo: img/logos/Project-Pages-New-Logo-Inverted.png
 
 # Tertiary Parameters
 github_username:  JeremyTse
